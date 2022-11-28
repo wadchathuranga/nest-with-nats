@@ -34,8 +34,8 @@ lerna-debug.log*
 !.vscode/launch.json
 !.vscode/extensions.json
 
-api-gateway/node_modules
-auth/node_modules
-email_service/node_modules
-logger/node_modules
-product/node_modules
+/api-gateway/node_modules
+/auth/node_modules
+/email_service/node_modules
+/logger/node_modules
+/product/node_modules
